@@ -1,0 +1,6 @@
+{
+  "name": "CloudAge — Edge Micro-App Ecosystem",
+  "description": "Next-generation edge-native micro-app suite powered by Cloudflare Workers and serverless intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
